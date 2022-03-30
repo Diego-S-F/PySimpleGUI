@@ -1,4 +1,4 @@
-# whatpyscrap
+# PySimpleGUI
 PySimpleGUI!
 
 Las interfaces con Python pueden lograr buenos resultados como el siguiente.
